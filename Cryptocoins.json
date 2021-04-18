@@ -8,7 +8,7 @@
     "marketCap": "$1,126,219,376,041",
     "volume": "$65,431,389,342",
     "circulatingSupply": "18,685,106 BTC"
-  }
+  },
   {
     "rank": "2",
     "name": "Ethereum",
@@ -18,7 +18,7 @@
     "marketCap": "$264,883,269,269",
     "volume": "$32,272,270,261",
     "circulatingSupply": "115,512,314 ETH"
-  }
+  },
   {
     "rank": "3",
     "name": "Binance Coin",
@@ -28,7 +28,7 @@
     "marketCap": "$78,879,538,933",
     "volume": "$5,200,672,454",
     "circulatingSupply": "153,432,897 BNB"
-  }
+  },
   {
     "rank": "4",
     "name": "XRP",
@@ -38,7 +38,7 @@
     "marketCap": "$68,660,948,027",
     "volume": "$14,130,702,858",
     "circulatingSupply": "45,404,028,640 XRP"
-  }
+  },
   {
     "rank": "5",
     "name": "Tether",
@@ -48,7 +48,7 @@
     "marketCap": "$48,674,935,733",
     "volume": "$175,780,114,686",
     "circulatingSupply": "48,075,190,515 USDT"
-  }
+  },
   {
     "rank": "6",
     "name": "Cardano",
@@ -58,7 +58,7 @@
     "marketCap": "$43,677,608,295",
     "volume": "$4,030,646,313",
     "circulatingSupply": "31,948,309,441 ADA"
-  }
+  },
   {
     "rank": "7",
     "name": "Polkadot",
@@ -68,7 +68,7 @@
     "marketCap": "$39,083,610,484",
     "volume": "$4,614,060,548",
     "circulatingSupply": "930,787,088 DOT"
-  }
+  },
   {
     "rank": "8",
     "name": "Dogecoin",
@@ -78,7 +78,7 @@
     "marketCap": "$35,979,928,524",
     "volume": "$30,585,782,224",
     "circulatingSupply": "129,224,158,466 DOGE"
-  }
+  },
   {
     "rank": "9",
     "name": "Litecoin",
@@ -88,7 +88,7 @@
     "marketCap": "$19,631,076,227",
     "volume": "$12,923,245,044",
     "circulatingSupply": "66,752,415 LTC"
-  }
+  },
   {
     "rank": "10",
     "name": "Bitcoin Cash",
