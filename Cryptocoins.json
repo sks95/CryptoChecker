@@ -1,0 +1,102 @@
+[
+    {
+    "rank": "1",
+    "name": "Bitcoin",
+    "price": "$60,273.64",
+    "24h": "2.32%",
+    "7d": "1.02%",
+    "marketCap": "$1,126,219,376,041",
+    "volume": "$65,431,389,342",
+    "circulatingSupply": "18,685,106 BTC"
+  }
+  {
+    "rank": "2",
+    "name": "Ethereum",
+    "price": "$2,293.12",
+    "24h": "5.69%",
+    "7d": "7.80%",
+    "marketCap": "$264,883,269,269",
+    "volume": "$32,272,270,261",
+    "circulatingSupply": "115,512,314 ETH"
+  }
+  {
+    "rank": "3",
+    "name": "Binance Coin",
+    "price": "$514.10",
+    "24h": "0.13%",
+    "7d": "9.11%",
+    "marketCap": "$78,879,538,933",
+    "volume": "$5,200,672,454",
+    "circulatingSupply": "153,432,897 BNB"
+  }
+  {
+    "rank": "4",
+    "name": "XRP",
+    "price": "$1.51",
+    "24h": "5.33%",
+    "7d": "11.11%",
+    "marketCap": "$68,660,948,027",
+    "volume": "$14,130,702,858",
+    "circulatingSupply": "45,404,028,640 XRP"
+  }
+  {
+    "rank": "5",
+    "name": "Tether",
+    "price": "$1.01",
+    "24h": "1.05%",
+    "7d": "1.18%",
+    "marketCap": "$48,674,935,733",
+    "volume": "$175,780,114,686",
+    "circulatingSupply": "48,075,190,515 USDT"
+  }
+  {
+    "rank": "6",
+    "name": "Cardano",
+    "price": "$1.37",
+    "24h": "4.24%",
+    "7d": "12.61%",
+    "marketCap": "$43,677,608,295",
+    "volume": "$4,030,646,313",
+    "circulatingSupply": "31,948,309,441 ADA"
+  }
+  {
+    "rank": "7",
+    "name": "Polkadot",
+    "price": "$41.99",
+    "24h": "0.29%",
+    "7d": "1.75%",
+    "marketCap": "$39,083,610,484",
+    "volume": "$4,614,060,548",
+    "circulatingSupply": "930,787,088 DOT"
+  }
+  {
+    "rank": "8",
+    "name": "Dogecoin",
+    "price": "$0.2784",
+    "24h": "28.10%",
+    "7d": "340.72%",
+    "marketCap": "$35,979,928,524",
+    "volume": "$30,585,782,224",
+    "circulatingSupply": "129,224,158,466 DOGE"
+  }
+  {
+    "rank": "9",
+    "name": "Litecoin",
+    "price": "$294.09",
+    "24h": "6.48%",
+    "7d": "17.58%",
+    "marketCap": "$19,631,076,227",
+    "volume": "$12,923,245,044",
+    "circulatingSupply": "66,752,415 LTC"
+  }
+  {
+    "rank": "10",
+    "name": "Bitcoin Cash",
+    "price": "$967.81",
+    "24h": "14.99%",
+    "7d": "44.03%",
+    "marketCap": "$18,109,326,545",
+    "volume": "$11,153,069,503",
+    "circulatingSupply": "18,711,725 BCH"
+  }
+]

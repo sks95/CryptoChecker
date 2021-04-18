@@ -1,5 +1,6 @@
 const cheerio = require('cheerio');
 const axios = require('axios');
+const jsonFileObj = require('./createJSONfile');
 
 async function coinPriceInfo(site){
     try{
@@ -27,7 +28,7 @@ async function coinPriceInfo(site){
 
         $(elemSelector).each((parentIdx, parentElem) => {
             let keyIdx = 0;
-            const coinObj = {};
+            let coinObj = {};
 
             if(parentIdx <= 9){
                 $(parentElem).children().each((childIdx, childElem) => {
@@ -45,11 +46,18 @@ async function coinPriceInfo(site){
                 coinArr.push(coinObj);     
             }
         })
+        // Display Cryptocoins Info on console
         console.table(coinArr);
+
+        // Pass Cryptocoins Array to create JSON File
+        let filePath = jsonFileObj.fileCreate(coinArr);
+        console.log("JSON File created at " + filePath);
+
     }catch(err){
         console.log(err);
     }
 }
+// coinPriceInfo("https://www.coinmarketcap.com/");
 
 module.exports = {
     cryptoCoinInfo: coinPriceInfo
